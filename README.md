@@ -14,11 +14,11 @@
     <br />
     <br />
     <br />
-    <a href="https://final-rss-kjm.herokuapp.com/">View Demo</a>
+    <a href="https://kendrajmoore.github.io/trello/">View Demo</a>
     ·
-    <a href="https://github.com/kendrajmoore/final-rss/issues">Report Bug</a>
+    <a href="https://github.com/kendrajmoore/trello/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kendrajmoore/final-rss/issues">Request Feature</a>
+    <a href="https://github.com/kendrajmoore/trello/issues">Request Feature</a>
   </p>
 </p>
 
@@ -36,7 +36,7 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/kendrajmoore/final-rss/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/kendrajmoore/trello/issues) for a list of proposed features (and known issues).
 
 
 
@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/kendrajmoore/final-rss](https://github.com/kendrajmoore/final-rss)
+Project Link: [https://github.com/kendrajmoore/trello](https://github.com/kendrajmoore/trello)
 
 
 
