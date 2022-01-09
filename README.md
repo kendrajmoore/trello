@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/GxzrX4R/Screen-Shot-2021-12-10-at-8-48-48-AM.png)
+[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/8bh7M4j/Screen-Shot-2022-01-09-at-10-00-37-AM.png)
 
 
 
